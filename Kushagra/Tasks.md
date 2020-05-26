@@ -50,3 +50,24 @@ Q3)
 -->BitBucket
 -->SourceForge
 -->AWS
+
+Q4)
+a)Fork-->A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project. A forked repository differs from a clone in that a connection exists between your fork and the original repository itself. In this way, your fork acts as a bridge between the original repository and your personal copy where you can contribute back to the original project using Pull Requests.
+b)Cloning-->Cloning a GitHub repository creates a local copy of the remote repo. This allows you to make all of your edits locally rather than directly in the source files of the origin repo. Here’s how to clone a GitHub repository.
+
+// The main difference is forking is done on github and cloning is done on git
+
+b) Branches-->in layman's term we can say that git branches are individual projects within a git repository...all the branches are independant of each other. There is default 'Master' branch in git. Once we have made changes to a project we can merge that particular branch to the master branch. It is used mainly to reduce redundancy in the project
+c) PR--> PR stands for pull request, A pull/merge request is submitted when you’ve worked on some code from a particular branch and want to inform the others of the changes you’ve made. A person/people can be assigned to review and subsequently approve the request before your changes can be incorporated into the branch. Users can give their contributions in the world of open source projects.
+
+HOW TO PERFORM PULL REQUEST
+Fork the Repository-->Clone the Repository-->Create a new branch [ master branch may also be used]-->commit ur changes localy-->Update ur local repo-->push the changes-->create the PR on github
+
+d)Yes, we can actually delete the master branch but first we have to create a new branch and make it the default branch otherwise its not possible
+e) Using Gitbash
+    deleting locally--> git branch -d <branch>
+    deleting remotely-->git push <remote> --delete <branch>
+     
+Links
+Forked Repo-->https://github.com/deepak2431/gitseries/pull/1
+PR from Branch-->https://github.com/kushagra-18/Online_intern/pull/1
