@@ -6,6 +6,8 @@ Android App development
 Python
 Web Development
 JavaScript
-
+React JS
+HTML
+CSS
 
 Thank you :)
