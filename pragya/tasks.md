@@ -1,5 +1,5 @@
-TASK 1
-What is Git and GitHub?
+#TASK 1
+#What is Git and GitHub?
 
 Git:-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git also tracks the history of changes to a project’s source code including what specifically has been changed and who has changed what parts and when have they been changed this feature is termed as Version Control.
 
@@ -13,15 +13,12 @@ A collaboration tool
 
 It allows developers to host their files in a ‘Git Repository’ so that other people can collaborate on projects with them Its like a social networking site for developers.
 
-Why is GitHub so popular?
+#Why is GitHub so popular?
 Automatically tracks every minute change in your project
 Allows us to revert back to a previous version no matter how many times you changed your files.
 It allows people to work together on the same project at the same time without disturbing each other’s files
 Easy to learn and work on .
 
-
-
-Hello, My name is Anna Varma. I am currently pursuing BTech in Computer Science from DIT University.
 
 1. What is git and gitHub?
 Git- Git was created by Linus Torvalds. Git is a type of version control system that makes it easier to track changes to files or in the source code.
@@ -87,21 +84,21 @@ git commit -a --allow-empty-message -m ""
 
 GitHub repository link
 
-TASK 3
+**TASK 3**
 
-Q1. What is meant by the term clone and fork?
+#Q1. What is meant by the term clone and fork?
 Ans: A Clone is used to create a local copy and it it modifies files locally as well.
 Making a personal copy from some others project is known as a fork, it also help us to modify and make changes without affecting the original content.
 
-Q2.What are branches in github?
+#Q2.What are branches in github?
 Ans: A branch is an individual project pr files inside a repository. Once we have made changes in the file we can merge that branch to the master branch.All the branches are independent to each other.
 
-Q3.What is PR?
+#Q3.What is PR?
 Ans: Pull Request: it is a command informing  about the changes that we have made in a project or in a branch .When this command is executed it means that we are requesting others to view the changes that we have made and merge it with the master branch.
 
-Q4.Can we delete the master branch if not why?
+#Q4.Can we delete the master branch if not why?
 Ans: We can delete the master branch but for this we need to create a new branch as the default .
-Q.How can we delete a branch?
+#Q.How can we delete a branch?
 Ans: git branch -d command is uesd to delete the branch.
 
 https://github.com/pragyadiwakar/gitseries
