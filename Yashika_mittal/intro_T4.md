@@ -1,8 +1,8 @@
 # Intoduction
-My name is **Yashika Mittal**.
+ My name is **Yashika Mittal**.
 
-+I am from DIT University.
++ I am from DIT University.
 
-+I am a *3rd year student*.
++ I am a *3rd year student*.
 
 
