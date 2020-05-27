@@ -1,5 +1,5 @@
-	#Github series task listed below
- **Task 1
+	# Github series task listed below
+ ** Task 1
 Hello everyone 
 My name is Aditi Nimbarte, I am currently pursuing B.Tech in Information Technology from YCCE, Nagpur
 
@@ -19,7 +19,7 @@ What are other platform similar to GitHub?
 -LaunchPad
 -Gitlab
 
- **Task 2
+ ** Task 2
 Hello everyone 
 My name is Aditi Nimbarte, I am currently pursuing B.Tech in Information Technology from YCCE, Nagpur
 
@@ -46,7 +46,7 @@ Can we leave the commit messages as blank?
 =>Yes,it can be done by using  git commit -a--allow-empty-messagw-m""
 
 
- **TAsk 3
+ ** Task 3
 What is meant by the term fork and clone?
 =>Fork:It means to make a copy of orignal repository in your account.We can modify the repository without harming the orignal one.
 Clone:It means to copy the remote repository to a local repository.
