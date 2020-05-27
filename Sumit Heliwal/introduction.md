@@ -5,4 +5,4 @@ Keep Coding, Keep Learning.
 
 
 Issue-task
-Change in branch for issues.
+Change in branch for new issues.
