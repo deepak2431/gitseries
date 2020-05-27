@@ -1,6 +1,6 @@
-#This is a summary of Task 1 to 4 of my GitHub learning so far#
+# This is a summary of Task 1 to 4 of my GitHub learning so far #
 
-#----------DAY-ONE----------#
+# ----------DAY-ONE---------- #
 
 **Question1. What are git and GitHub?**
 Answer1. Git is created by Linus Torvalds. Primarily for the contribution to the linux kernel development.
@@ -22,7 +22,7 @@ Answer3. Various other platforms similar to GitHub are:
 3. AWS Code Commit
 4. Source Forge
 
-#----------DAY-TWO----------#
+# ----------DAY-TWO---------- #
 
 **Question1. How git workflow works?**
 Answer1. There is one local repository and the developer that wants to make changes clones the repository and make changes using the commit command and further pushes it to the remote repository from where developers can pull and can work on it.
@@ -56,7 +56,7 @@ git commit -a --allow-empty-message -m ""
 _My GitHub repository link is:_
 _https://github.com/ashburn3r/CodeWayy-Github-Series_
 
-#----------DAY-THREE----------#
+# ----------DAY-THREE---------- #
 
 **QUESTION1. What is meant by the term fork and clone?**
 ANSWER1. Fork means creating a personal copy from someone else’s project and that copy can also be used as a person’s initial point of creating a project.
@@ -78,7 +78,7 @@ ANSWER5. We can delete the branch in the following two ways:
 To delete locally: git branch -d <branch>
 To delete remotely: git push <remote> --delete <branch>
 
-#----------DAY-FOUR----------#
+# ----------DAY-FOUR---------- #
 
 **QUESTION1. What do u mean by merge conflict?**
 ANSWER1. It occurs when git is unable to automatically resolve the differences in the code by itself between two commits.
