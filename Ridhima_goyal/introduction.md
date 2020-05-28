@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 
 My name is Ridhima Goyal.
 I am pursuing Btech in Computer Science from Dit University.
