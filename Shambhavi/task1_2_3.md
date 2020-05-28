@@ -1,5 +1,6 @@
-Task1
-1.What are git and GitHub?
+### TASK1_2_3
+**Task1**
+1.*What are git and GitHub?*
 Git is a distributed version control tool that can manage a development project's source code history.Git is a tool a developer installs locally on their computer.
 It does not require the use of any external, cloud hosting service to function. 
 
@@ -7,7 +8,7 @@ GitHub is a cloud based platform built around the Git tool. GitHub is an online 
 GitHub is an online service to which developers who use Git can connect and upload or download resources.
 
 
-2.Why GitHub is so popular and used in most of the projects?
+2.*Why GitHub is so popular and used in most of the projects?*
 GitHub is so popular and used in most of the projects because of the following reasons:
 a)Open, clear communication.
 b)Public APIs. These allowed others to build upon their work.
@@ -16,17 +17,17 @@ d)It is very intuitive and user-friendly UI/UX.
 e)GitHub managed to come up with a Model-view-presenter (MVP)
 
 
-3.What are the other platforms similar to GitHub?
+3.*What are the other platforms similar to GitHub?*
 a)Bitbucket
 b)GitLab
 c)Beanstalk
 d)SourceForge
 
 
-Task2
-a)How git workflow works?
+**Task2**
+a)*How git workflow works?*
 The main idea behind the  Workflow is that all feature development  should take place in a dedicated branch instead of the master branch. This encapsulation makes it easy for various  developers to work on a particular feature without disturbing the main codebase. We have  one central repository. Each developer clones the repository and locally made changes in the code and commit it and then pushes  it to the central repository so that the  other developers can  pull and use in their work.
-b)What're the different stages of a git project as commit, add? 
+b)*What're the different stages of a git project as commit, add? *
 Git Workflow consist of the following: 
 •	Workspace(also known as Working Directory)
 •	Index(also known as Stage)
@@ -40,7 +41,7 @@ push command is used to push the changes  from local to remote repository.
 fetch command is used to get  the file from remote to local repository.
 merge command takes changes  from local repository to workspace.
 pull command will collect the changes from the remote repository then will be taken into  local repository and further into workspace in one go. 
- c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+ c. *Is it possible to do a git commit before git add . if you have made any changes? Explain why?*
 No ,it is not possible because first we add file to stage and then we undergo commit or save it into local repository.
  d. Why is git diff used?
 This command is used to check the difference between the files in the stage and in the workspace.
@@ -48,7 +49,7 @@ This command is used to check the difference between the files in the stage and 
 Yes we can do it by using the below command :
 git commit -a --allow-empty-message -m ""
 
-TASK 3 
+**TASK 3** 
 
 A. What is meant by the term fork and clone?
 Fork in git means making a personal copy of someone else's project or repository which helps us to modify and make changes in it without affecting the orignal project.It acts as a bridge between orignal repo and the copy we made.
