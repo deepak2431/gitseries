@@ -1,7 +1,7 @@
-#Tasks
+# Tasks
 Question and answer of **day1**,**day2** and **day3** Tasks:
 
-##Task 1:
+## Task 1:
 
 1.What is git and github?
 
@@ -28,7 +28,7 @@ It is a web service which runs the git software we can manage repository in git.
 
 
 
-###Task 2:
+### Task 2:
 
 1.How git workflow works?
 
@@ -47,7 +47,7 @@ Diff command is used to track  the difference or changes made on a file.
 Yes, we can leave the commit message as blank.  
 
 
-####Task 3:
+#### Task 3:
 
 1.What is meant by the term fork and clone?
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
