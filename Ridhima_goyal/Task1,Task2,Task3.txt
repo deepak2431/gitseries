@@ -60,5 +60,38 @@ Q5 Can we leave the commit message as blank?
 Ans 5)Yes we can do it by using the below command :
 git commit -a --allow-empty-message -m "message"
 
+-----------------------------------------------------------------------------------------------------------------------------
+##Task3
+
+Q1) What is meant by the term fork and clone?
+
+Fork in git means making a personal copy of others repository which we can modify
+without affecting the orignal project.
+
+Clone is used to create  a local copy of the remote repository.This process helps us to edit and modify files locally.
+
+Q2) What are branches in Github?
+
+A Git Branch is a separate line of development in a software project. 
+User can create a branch, and keep on committing their changes to this branch without messing the original 'master' branch.
+
+Usually, each developer working on a code makes his/her changes in a separate branch.
+Git offers features to merge the branch with the master branch after changes are done. 
+The branches can also be named according to what kind of changes they contain. 
+
+Q3) What is PR ?
+
+A pull request is submitted when you’ve worked on some code from a particular branch and want to inform 
+the others of the changes you’ve made. people can be assigned to review and subsequently approve the request 
+before your changes can be incorporated into the branch.
+
+Q4) Can we delete the master branch if not why?
+
+Yes, we can delete the master branch if we set some another branch as default.
+
+Q5) How can we delete a branch?
+
+It can be done by using git branch -d command.
+
 Regards, 
 Ridhima Goyal
