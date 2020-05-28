@@ -60,5 +60,5 @@ Q5 Can we leave the commit message as blank?
 Ans 5)Yes we can do it by using the below command :
 git commit -a --allow-empty-message -m "message"
 
-Regards 
-Ridhima
+Regards, 
+Ridhima Goyal
