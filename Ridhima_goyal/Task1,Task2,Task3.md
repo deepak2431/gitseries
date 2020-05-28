@@ -1,4 +1,4 @@
-##Task1
+## Task1
 Q1. What is Git and GitHub?
 
 GIT:-
@@ -28,7 +28,7 @@ Q3. What are the other platforms similar to GitHub?
 	Source Forge
 -------------------------------------------------------------------------------------------------------------------------------	
 
-##Task - 2
+## Task - 2
 Q1 How git workflow works?
 
 Ans 1)The developers clones the central repository.
@@ -61,7 +61,7 @@ Ans 5)Yes we can do it by using the below command :
 git commit -a --allow-empty-message -m "message"
 
 -----------------------------------------------------------------------------------------------------------------------------
-##Task3
+## Task3
 
 Q1) What is meant by the term fork and clone?
 
