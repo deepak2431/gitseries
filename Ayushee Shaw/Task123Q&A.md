@@ -24,6 +24,7 @@ To publish changes to the official project, developers "push" their local master
 
 Q2 what are the different stages of a GIT the project as commit, add?
 Ans. 
+
 Git, goes through three stages — Modified, Staged, and Committed.
 • Modified:
 Under Git we can create a repository, a repository is basically a kind of a directory that contains all the files related to our code. So, in the repository we can write code, and maintain it. Once, the code is written, anyone willing to make some modification can make those changes in their own remote repository. A remote repository is a local copy (one that you create on your local machine) of the original project that is being maintained via Git. So, basically we can make changes to our copy of the project without hampering the original code. This is called Modification, i.e. making some additions to the original project.
